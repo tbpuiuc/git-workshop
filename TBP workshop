@@ -1,0 +1,12 @@
+//Blake + coffee chats
+git config --global user.name "Blake"
+git config --global user.email "blakesb2@illinois.edu"
+git add <blakesb2>.txt
+git commit -m "boom"
+git add <blakesb2>.txt
+git commit -m "blue"
+git push --set-upstream origin main
+git remote add tbp https://github.com/tbpuiuc/git-workshop.git
+git push tbp main
+git remote add tbp https://github.com/tbpuiuc/git-workshop.git
+git push tbp main
